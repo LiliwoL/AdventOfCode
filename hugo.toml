@@ -1,0 +1,7 @@
+baseURL = 'http://example.org/'
+languageCode = 'en'
+defaultContentLanguage = "en"
+title = "Calendrier de l'avent du Code"
+
+theme = "blowfish"
+
