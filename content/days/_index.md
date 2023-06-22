@@ -6,3 +6,5 @@ showReadingTime: false
 ---
 
 Every day, a new amazing project to learn web development.
+
+Kill Lazyness, let's code!
