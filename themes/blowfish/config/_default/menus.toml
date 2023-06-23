@@ -1,32 +1,16 @@
 # config/_default/menus.toml
 
 [[main]]
-name = "Blog"
-pageRef = "posts"
-weight = 10
-
-[[main]]
-name = "Topics"
-pageRef = "topics"
-weight = 20
-
-[[main]]
 name = "Days"
 pageRef = "days"
-weight = 30
-
-[[main]]
-pre = "github"
-name = "GitHub"
-url = "https://github.com/nunocoracao/blowfish"
-weight = 30
+weight = 10
 
 [[main]]
 identifier = "github2"
 pre = "github"
 url = "https://github.com/nunocoracao/blowfish"
-weight = 40
+weight = 20
 
 [[footer]]
-name = "Privacy"
-url = "https://external-link"
+name = "Lycée Fénelon La Rochelle"
+url = "https://fenelon-notredame.com"

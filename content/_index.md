@@ -1,5 +1,6 @@
 ---
-title: "Welcome to Blowfish!"
-description: "This is a demo of adding content to the homepage."
+title: "Calendrier de l'avent du code"
+description: "Projet Avent du Code"
 ---
-Calendrier de l'avent du code
+
+Bienvenue à toutes et tous dans le calendrier de l'avent du code!
